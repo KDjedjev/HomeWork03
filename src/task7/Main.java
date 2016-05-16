@@ -27,7 +27,8 @@ public class Main {
 			System.out.print("Valid card");
 			break;
 		}
+			System.out.print("Invalid card");
+		}
 
-	}
 
 }
